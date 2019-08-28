@@ -2,4 +2,4 @@
 
 ##### Basic Parallax Page example written with only html and css
 
-https://ssmith777.github.io/Parallax_html_css/
+View site @: https://ssmith777.github.io/Parallax_html_css/
