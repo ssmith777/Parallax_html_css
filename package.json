@@ -1,0 +1,23 @@
+{
+  "name": "parralax-example",
+  "version": "1.0.0",
+  "description": "##### Basic Parallax Page example written with only html and css",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssmith777/Parallax_html_css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssmith777/Parallax_html_css/issues"
+  },
+  "homepage": "https://ssmith777.github.io/Parallax_html_css",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
